@@ -1,7 +1,7 @@
-# Gater
-
 > [!IMPORTANT]  
 > This is a tech demo, please use a vetted library like [zod](https://github.com/colinhacks/zod) for your production applications.
+
+# Gater
 
 <img align="right" src="https://raw.githubusercontent.com/mbicknese/gater/main/logo.svg" height="150px" alt="the gater mascot alligator">
 
