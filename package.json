@@ -2,9 +2,14 @@
   "name": "@bicknese/gater",
   "version": "1.0.0",
   "description": "A lightweight TypeScript validation library. As Deno is a play on Dino, Gater is a play on Gator.",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc -p ."
   },
   "keywords": [
     "TypeScript",

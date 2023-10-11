@@ -1,4 +1,4 @@
-import { isValid } from "../src/index.ts";
+import { isValid } from "../src";
 
 // Need to have a reference for checking equality
 const emptyArray = [] as const;
