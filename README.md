@@ -3,6 +3,10 @@
 
 # Gater
 
+<a href="https://github.com/mbicknese/gater/actions?query=branch%3Amain"><img src="https://github.com/mbicknese/gater/actions/workflows/test.yml/badge.svg?event=push&branch=main" alt="Gater CI status" /></a>
+<a href="https://www.npmjs.com/package/bicknese/gater" rel="nofollow"><img src="https://img.shields.io/npm/dw/@bicknese/gater.svg" alt="npm"></a>
+
+
 <img align="right" src="https://raw.githubusercontent.com/mbicknese/gater/main/logo.svg" height="150px" alt="the gater mascot alligator">
 
 Gater is a simple, modern and secure object validator for JavaScript and TypeScript.
